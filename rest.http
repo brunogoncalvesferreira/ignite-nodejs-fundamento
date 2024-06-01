@@ -1,0 +1,26 @@
+### 
+POST http://localhost:8080/tasks
+Content-Type: application/json
+
+{
+  "title": "Aprender PHP",
+  "description": "Aprender a desenvolver um app com PHP"
+}
+
+###
+GET http://localhost:8080/tasks
+
+### 
+PUT http://localhost:8080/tasks/f4e51ebd-e5fc-462b-bb09-29621c8680ac
+Content-Type: application/json
+
+{
+  "title": "Estudar javascript",
+  "description": "Aprender como funciona os Arrays"
+}
+
+### 
+DELETE http://localhost:8080/tasks/ac5526dc-8716-48d1-9c59-5a03341c9ba1
+
+### 
+PATCH http://localhost:8080/tasks/f4e51ebd-e5fc-462b-bb09-29621c8680ac/completed

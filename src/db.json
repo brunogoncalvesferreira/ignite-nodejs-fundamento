@@ -1,0 +1,76 @@
+{
+  "tasks": [
+    {
+      "id": "f4e51ebd-e5fc-462b-bb09-29621c8680ac",
+      "title": "Estudar javascript",
+      "description": "Aprender como funciona os Arrays",
+      "completed_at": "2024-06-01T14:57:57.391Z",
+      "created_at": "2024-06-01T14:57:30.545Z",
+      "updated_at": "2024-06-01T14:57:46.184Z"
+    },
+    {
+      "id": "b80d009b-6546-4b5e-8cf7-892b4bcd7caa",
+      "title": "Reactjs",
+      "description": "Biblioteca para criar interfaces frontends",
+      "completed_at": null,
+      "created_at": "2024-06-01T14:58:13.247Z",
+      "updated_at": "2024-06-01T14:58:13.247Z"
+    },
+    {
+      "id": "9bd5744b-abd2-49bd-b316-e31ac1dad800",
+      "title": "Aprender JAVA",
+      "description": "Aprender a desenvolver um app com JAVA",
+      "completed_at": null,
+      "created_at": "2024-06-01T14:58:45.902Z",
+      "updated_at": "2024-06-01T14:58:45.902Z"
+    },
+    {
+      "id": "d9c1cba4-b7ab-4d3b-b5fc-5a239c050e41",
+      "title": "Aprender PHP",
+      "description": "Aprender a desenvolver um app com PHP",
+      "completed_at": null,
+      "created_at": "2024-06-01T14:59:08.166Z",
+      "updated_at": "2024-06-01T14:59:08.166Z"
+    },
+    {
+      "id": "811e4f66-adbb-447d-b24e-81d65d4362c6",
+      "title": "Task 01",
+      "description": "Descrição da Task 01",
+      "completed_at": null,
+      "created_at": "2024-06-01T15:46:07.784Z",
+      "updated_at": "2024-06-01T15:46:07.784Z"
+    },
+    {
+      "id": "eaa156da-6b7f-4af0-8cda-d922d9fa8f8a",
+      "title": "Task 02",
+      "description": "Descrição da Task 02",
+      "completed_at": null,
+      "created_at": "2024-06-01T15:46:08.795Z",
+      "updated_at": "2024-06-01T15:46:08.795Z"
+    },
+    {
+      "id": "d18be8c7-2a53-4bbe-9eb2-93ec9c18e1b1",
+      "title": "Task 03",
+      "description": "Descrição da Task 03",
+      "completed_at": null,
+      "created_at": "2024-06-01T15:46:09.802Z",
+      "updated_at": "2024-06-01T15:46:09.802Z"
+    },
+    {
+      "id": "1190ea50-2049-4410-a462-019e31c8a42a",
+      "title": "Task 04",
+      "description": "Descrição da Task 04",
+      "completed_at": null,
+      "created_at": "2024-06-01T15:46:10.806Z",
+      "updated_at": "2024-06-01T15:46:10.806Z"
+    },
+    {
+      "id": "37f067d6-5028-41be-8ed6-2e7ee41ea490",
+      "title": "Task 05",
+      "description": "Descrição da Task 05",
+      "completed_at": null,
+      "created_at": "2024-06-01T15:46:11.813Z",
+      "updated_at": "2024-06-01T15:46:11.813Z"
+    }
+  ]
+}
